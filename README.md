@@ -15,7 +15,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="I am Vishal Raj, and I specialize in backend development." src="images/personalInfo.png" />
+ <h1 align="center"> I'm Vishal Raj and I Specialize in Backend Development</h1>
 
 </div>
 
@@ -38,7 +38,7 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   <div align="center">
-<img height="300" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
+<img height="300" alt="My Tech Stacks" src="IMGtechstacks.png" />
 </div>
 <br>
 <br>
