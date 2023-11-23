@@ -1,39 +1,79 @@
-<h1 align="center">Hi 👋, I'm Vishal Raj</h1>
-<h3 align="center">👉Passionate about software engineering, I thrive on learning something new every day. "It’s not that we use technology, we LIVE technology." This philosophy underscores my belief that technology and innovation are the keys to success.</h3>
+<a href="https://github.com/vishalrajbanti">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrajbanti&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrajbanti" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalrajbanti" alt="vishalrajbanti" /></a> </p>
+  
+![][logo-url]
+ 
+</div>
+  </a>
 
-- 🔭 I’m currently working on **Instagram Backend App**
+[logo-url]: https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp
 
-- 🌱 I’m currently learning **HTML,CSS and Java Script**
 
-- 👯 I’m looking to collaborate on **Frontend**
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="I am Vishal Raj, and I specialize in backend development." src="images/personalInfo.png" />
 
-- 🤝 I’m looking for help with **Frontend**
+</div>
 
-- 💬 Ask me about **Java & Spring Boot**
+ ### As a proficient backend developer experienced in Spring Boot, I possess a wealth of knowledge in Java and DSA. Currently, I am an apprentice at Geekster platform, where I am consistently enhancing my expertise in the technology field. My fervor for programming has enabled me to gain a comprehensive understanding of various programming languages, and I am perpetually enthusiastic to expand my knowledge further. I am committed, diligent, and constantly endeavoring to enhance my skills to achieve optimal outcomes.
 
-- 📫 How to reach me **vishalrajbanti@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/13F0piFWXf2stHc1xMT2yEk7bd_GCMhHUdJpC2VM68JQ/edit?usp=sharing](https://docs.google.com/document/d/13F0piFWXf2stHc1xMT2yEk7bd_GCMhHUdJpC2VM68JQ/edit?usp=sharing)
+<br>
+<br>
+<br>
 
-- ⚡ Fun fact **I can walk slower than tortoise.**
+## 🚀💻 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishalrajbanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalrajbanti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vishalrajbanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishalrajbanti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishalrajbanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalrajbanti" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishalrajbanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalrajbanti" height="30" width="40" /></a>
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman) 
+  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  <div align="center">
+<img height="300" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
+</div>
+<br>
+<br>
+
+## ⚡ GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vishalrajbanti&theme=gruvbox"/> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrajbanti&theme=gruvbox" alt="Vishal Raj" /><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrajbanti&theme=gruvbox" />
+</div></p>
+
+<br>
+<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📌Reach me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalrajbanti&show_icons=true&locale=en&layout=compact" alt="vishalrajbanti" /></p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/vishalrajbanti"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/linkedin.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vishalrajbanti"><img alt="GitHub" title="GitHub" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/github.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vishalrajbanti@gmail.com"><img alt="Vishal Raj | Gmail" title="email" height="48" width="48" 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.hackerrank.com/vishalrajbanti?hr_r=1"><img alt="HackerRank" title="HackerRank" height="48" width="48" 
+src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalrajbanti&show_icons=true&locale=en" alt="vishalrajbanti" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrajbanti&" alt="vishalrajbanti" /></p>
+<br>
+
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/vishalrajbanti/count.svg)
